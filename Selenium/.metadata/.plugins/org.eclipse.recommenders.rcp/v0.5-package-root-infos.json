@@ -1,0 +1,340 @@
+[
+  {
+    "symbolicName": "com.google.guava",
+    "version": {
+      "major": 25,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "jre"
+    },
+    "jarFileFingerprint": "7842ad3f92f42508468ae2c03ca390a7b9710a6d",
+    "jarFileModificationDate": "2018-12-08T16:06:05.342+05:30",
+    "location": "C:\\Users\\MAHESH P\\Downloads\\jars\\client-combined-3.141.59.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "60ff38f1b1d713063a7467fd828288697c58e3e9",
+    "jarFileModificationDate": "2018-12-04T08:32:51.638+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_191\\lib\\ext\\nashorn.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "client-combined-3.141.59-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "155f734ab93dc619189a268496bea9d974bf9b29",
+    "jarFileModificationDate": "2018-12-08T16:06:05.232+05:30",
+    "location": "C:\\Users\\MAHESH P\\Downloads\\jars\\client-combined-3.141.59-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6452df62bdd2aa95350f178b87d663e247d53676",
+    "jarFileModificationDate": "2018-12-04T08:32:51.650+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_191\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.exec",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8dfb9facd0830a27b1b5f29f84593f0aeee7773b",
+    "jarFileModificationDate": "2018-12-08T16:11:17.133+05:30",
+    "location": "C:\\Users\\MAHESH P\\Downloads\\jars\\commons-exec-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.guava",
+    "version": {
+      "major": 25,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "jre"
+    },
+    "jarFileFingerprint": "7319c34fa5866a85b6bad445adad69d402323129",
+    "jarFileModificationDate": "2018-12-08T16:11:17.258+05:30",
+    "location": "C:\\Users\\MAHESH P\\Downloads\\jars\\guava-25.0-jre.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a4df71aed77bb4aa6f0158a25a325b44156b483d",
+    "jarFileModificationDate": "2018-12-04T08:32:55.532+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_191\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1377e8a9910546582dc8ace8edc528701b76494c",
+    "jarFileModificationDate": "2018-12-04T08:32:55.403+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_191\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "net.bytebuddy.byte-buddy",
+    "version": {
+      "major": 1,
+      "minor": 8,
+      "micro": 15,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cb36fe3c70ead5fcd016856a7efff908402d86b8",
+    "jarFileModificationDate": "2018-12-08T16:11:17.101+05:30",
+    "location": "C:\\Users\\MAHESH P\\Downloads\\jars\\byte-buddy-1.8.15.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3a9d0d65a41590f29c10fd35484285bb532fd284",
+    "jarFileModificationDate": "2018-12-04T08:32:51.604+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_191\\lib\\ext\\jfxrt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bf1c817820341a246f7130fe046e8310b03d04f6",
+    "jarFileModificationDate": "2018-12-04T08:32:51.642+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_191\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "88166d39bbbb34f05b51871dbd37f5f670676dbb",
+    "jarFileModificationDate": "2018-12-04T08:32:51.657+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_191\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.squareup.okhttp3.okhttp",
+    "version": {
+      "major": 3,
+      "minor": 11,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "75966e05a49046ca2ae734e5626f28837a8d1e82",
+    "jarFileModificationDate": "2018-12-08T16:11:17.320+05:30",
+    "location": "C:\\Users\\MAHESH P\\Downloads\\jars\\okhttp-3.11.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "304a9698d1190bff18e69654784f30b8274eb7cb",
+    "jarFileModificationDate": "2018-12-04T08:32:51.475+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_191\\lib\\ext\\access-bridge-64.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "selenium-java-3.141.59",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d2651cbdb5b36ebc7b4fba7b80e6258cc75256e1",
+    "jarFileModificationDate": "2018-12-08T16:05:30.908+05:30",
+    "location": "C:\\Users\\MAHESH P\\Downloads\\selenium-java-3.141.59.zip",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "29467af9e278877673aac987ca28b4c649e3bf70",
+    "jarFileModificationDate": "2018-12-04T08:32:52.370+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_191\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "51959d3e835a43a000737e7315f63a51e29bc02a",
+    "jarFileModificationDate": "2018-12-04T08:32:52.312+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_191\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "15341d3cabf418e93812af59300dadb0903fc83e",
+    "jarFileModificationDate": "2018-12-04T08:32:51.522+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_191\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.squareup.okio.okio",
+    "version": {
+      "major": 1,
+      "minor": 14,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "102d7be47241d781ef95f1581d414b0943053130",
+    "jarFileModificationDate": "2018-12-08T16:11:16.977+05:30",
+    "location": "C:\\Users\\MAHESH P\\Downloads\\jars\\okio-1.14.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ff8fc7da560c5d9e464ee38c96eb5dae254aa3af",
+    "jarFileModificationDate": "2018-12-04T08:32:55.214+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_191\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5460adee09cc5fc8829c0acfc46c34670a7d70a0",
+    "jarFileModificationDate": "2018-12-04T08:32:52.296+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_191\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "39982040ce30476af1a7040848e200a295e4c5ee",
+    "jarFileModificationDate": "2018-12-04T08:32:51.519+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_191\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "323bc9469f18cb72a4e20ee4d26ca6daa80e4e96",
+    "jarFileModificationDate": "2018-12-04T08:32:51.647+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_191\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e7c6bd3cddca5a1626a5f32483616e355c1781a7",
+    "jarFileModificationDate": "2018-12-04T08:32:51.505+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_191\\lib\\ext\\cldrdata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "592050e26f5082766645cb54f3b91ea16e0f4966",
+    "jarFileModificationDate": "2018-12-04T08:32:55.310+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_191\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c423fb190b0b7dbc03d6210c4310aa84e4aa1399",
+    "jarFileModificationDate": "2018-12-04T08:32:51.653+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_191\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  }
+]

@@ -1,0 +1,36 @@
+package sample;
+
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Webtable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		WebDriver driver;
+		System.setProperty("webdriver.chrome.driver", "G:\\Selenium\\chromedriver.exe");
+		driver=new ChromeDriver();
+		driver.get("http://www.freejobalert.com");
+		driver.manage().window().maximize();
+		driver.findElement(By.linkText("Latest Notifications")).click();
+		List<WebElement>tab=driver.findElements(By.tagName("table"));
+		List<WebElement>row=tab.get(1).findElements(By.tagName("tr"));
+		List<WebElement>col=row.get(0).findElements(By.tagName("td"));
+		List<WebElement>job=col.get(1).findElements(By.tagName("a"));
+		System.out.println("hai");
+		job.get(4).click();
+		//driver.findElement(By.linkText("Delhi")).click();
+		
+		
+		
+		
+		
+		
+
+	}
+
+}
